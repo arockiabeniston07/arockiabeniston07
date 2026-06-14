@@ -19,7 +19,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
+javascript
 const arockia = {
   name        : "Arockia Beniston V",
   location    : "Thoothukudi, Tamilnadu 🇮🇳",
@@ -43,7 +43,7 @@ const arockia = {
 
   motto       : () => "Build. Break. Learn. Repeat. 🚀"
 };
-```
+
 
 <br clear="right"/>
 
