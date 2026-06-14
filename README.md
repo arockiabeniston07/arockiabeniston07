@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arockiabeniston07&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views" />
+ 
   <a href="https://www.linkedin.com/in/arockiabeniston/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:arockiabeniston26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://portfolio-benzzz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
@@ -106,13 +106,8 @@ const arockia = {
 
 ---
 
-## 🏆 Trophy Wall
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arockiabeniston07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
----
 
 ## 💼 Work Experience
 
@@ -141,7 +136,7 @@ const arockia = {
 
 | Project | Stack | Highlights |
 |:---|:---|:---|
-| [🌾 Smart Crop Recommendation System](https://github.com/arockiabeniston07) | Python · SQL · HTML · CSS · JavaScript | ML-powered crop advisor that suggests optimal crops based on soil & environmental data; improved agricultural decision-making and productivity support |
+| [🌾 Smart Crop Recommendation System](https://smartcrop-final.vercel.app/) | Python · SQL · HTML · CSS · JavaScript | ML-powered crop advisor that suggests optimal crops based on soil & environmental data; improved agricultural decision-making and productivity support |
 | [🌐 Portfolio Website](https://portfolio-benzzz.netlify.app/) | HTML · CSS · React.js | Personal portfolio with smooth UI/UX, animations, and responsive design showcasing all projects & skills; live on Netlify |
 
 </div>
